@@ -1,3 +1,3 @@
 # Monday Coffee Data Analysis Using SQL
-![](https://www.freepik.com/free-photos-vectors/coffee-products)
+![](https://github.com/najirh/Monday-Coffee-Expansion-Project-P8/blob/main/1.png)
 
